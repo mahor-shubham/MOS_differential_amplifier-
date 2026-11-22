@@ -44,7 +44,7 @@ The MOS Differential Amplifier is designed and simulated for three different cha
 
 # Circuit Diagram
 
-<img width="350" height="550" alt="image" src="https://github.com/user-attachments/assets/b5733b82-3aa0-415a-a145-a398888d00a1" />
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/b5733b82-3aa0-415a-a145-a398888d00a1" />
 
 
 **Analysis Performed:**
