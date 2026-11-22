@@ -38,6 +38,8 @@ The following design specifications are considered:
 | Load Capacitance (CL) | 5 pF |
 | Slew Rate (SR) | 10 V/µs |
 
+Reference: https://www.researchgate.net/publication/308904430_Analysis_and_Design_of_MOS_Differential_Amplifier
+
 ## 4. Circuit Design and Simulation
 
 The MOS Differential Amplifier is designed and simulated for three different channel lengths using LTspice.
